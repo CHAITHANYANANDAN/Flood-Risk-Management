@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alappuzha Shelter 1",
+        "type": "Shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.35, 9.45]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuttanad Health Center",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.55, 9.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kochi Relief Depot",
+        "type": "Relief Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.25, 9.95]
+      }
+    }
+  ]
+}
